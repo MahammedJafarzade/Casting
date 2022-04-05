@@ -1,0 +1,14 @@
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.exe
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.deps.json
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.runtimeconfig.json
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.runtimeconfig.dev.json
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.dll
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\bin\Debug\netcoreapp3.1\UpDownCasting.pdb
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.csproj.AssemblyReference.cache
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.AssemblyInfoInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.AssemblyInfo.cs
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.dll
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.pdb
+C:\Users\Orkhan\OneDrive\Desktop\Casting\UpDownCasting\UpDownCasting\obj\Debug\netcoreapp3.1\UpDownCasting.genruntimeconfig.cache
